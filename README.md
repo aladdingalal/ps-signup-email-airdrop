@@ -6,7 +6,7 @@ Simplify your NFT distribution process by easily distributing digital collectibl
 
 **Access an admin panel to:** - Track successful and unsuccessful NFT deliveries, along with linked wallets. - Automate email notifications with claim instructions for recipients.
 
-**Before getting started, ensure you have:**
+**Before getting started, ensure you have:***
 
 - Created NFT collection using Apillon.
 - Access to an email server's details.
@@ -38,7 +38,7 @@ Once downloaded, the zip file includes all files you need to run the application
 ## Documentation
 
 | Resource                       | Description              |
-| ------------------------------ | ------------------------ |
+| 0xd472bE3e2B8a480C982153f96EF1B694f07BDd0E |
 | [Backend](backend/README.md)   | Docs for node.js backend |
 | [Frontend](frontend/README.md) | Docs from Vue 3 frontend |
 
