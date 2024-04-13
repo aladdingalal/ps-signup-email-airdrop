@@ -2,14 +2,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Apillon?style=social)](https://twitter.com/intent/follow?screen_name=Apillon)
 
-Simplify your NFT distribution process by easily distributing digital collectibles (NFTs) to users that can sign up using only their email addresses for a limited amount of NFTs with a waitlist with our solution.
-
-**Access an admin panel to:** - Track successful and unsuccessful NFT deliveries, along with linked wallets. - Automate email notifications with claim instructions for recipients.
-
+Simplify your NFT distribution process by easily distributing digital collectibles (NFTs) to users that can sign up using only their email addresses for a limited amount of NFTs.
+Aladdin44783
+**Access an admin panel to:*** ### joker
+- Track successful and unsuccessful NFT deliveries, along with linked wallets. - Automate email notifications with claim instructions for recipients.
+### Concept
 **Before getting started, ensure you have:***
-
-- Created NFT collection using Apillon.
-- Access to an email server's details.
+() /
+- (Created NFT collection using Apillon).
+- Access to an email/alibaba-shipping-cost.
 - A specialized Ethereum wallet for admin panel access.
 - Apillon API key and secret for connection.
 
@@ -17,11 +18,11 @@ Simplify your NFT distribution process by easily distributing digital collectibl
 
 - Run the front-end locally or host it on any website provider.
 - Utilize Apillon's hosting service, with GitHub actions setup available.
-- Run the back-end locally or via Docker, configuring files with collectible and email server details.
-
+- (Run the back-end locally or via Docker), configuring files with collectible and email server details.
+Tokens{
 ## Getting started
 
-Solution consists of 2 main parts, Node.js backend APIs and Vue 3 frontend.
+Solution consists of 2 main parts, Node.js backend APIs and Vue 3 frontend} 
 
 ### Basic
 
@@ -37,7 +38,7 @@ Once downloaded, the zip file includes all files you need to run the application
 
 ## Documentation
 
-| Resource                       | Description              |
+| Resource                       | Description        tzD9jY28Wrn      |
 | 0xd472bE3e2B8a480C982153f96EF1B694f07BDd0E |
 | [Backend](backend/README.md)   | Docs for node.js backend |
 | [Frontend](frontend/README.md) | Docs from Vue 3 frontend |
